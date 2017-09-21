@@ -1,7 +1,7 @@
 テストページです．
 
 # github Page
-## [作り方](https://mamisite.github.io/createGithubPage)
+## [作り方](https://mamisite.github.io/createGithubPage)　＜ークリックできる
 ## 便利機能
 ### 小見出し
  
