@@ -1,7 +1,6 @@
 テストページです．
 
-# [github Page](https://mamisite.github.io/createGithubPage.md)
-# [github Page](https://mamisite.github.io/test.md)
+# [github Page](https://mamisite.github.io/createGithubPage.)
 ## あ
 ### あ
  
