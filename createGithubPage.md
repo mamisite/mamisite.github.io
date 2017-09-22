@@ -11,5 +11,5 @@ github Pageについて
 基本的に，ローカル(ターミナルからvimで編集とか)＋[GitHub Desktop](https://desktop.github.com)だけでできるけれど，
 何故かわからないけれど，
 .mdという名前でページ(ファイル)を作成しても，原文がそのまま表示されてしまう．
-githubのページから保存し直すとmarkdownであることが認識？されて表示される
+githubのページから保存し直すとmarkdownであることが認識？されて表示される．
 
